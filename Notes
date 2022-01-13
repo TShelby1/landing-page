@@ -17,3 +17,17 @@ information header text: 36px extra-bold #1F2937
 quote section background color #E5E7EB
 quote text36px light italic #1F2937
 
+6 Rows
+row 1: H1 Header Logo + H2 header link 1,2,3, flex container: 3 flex items
+
+row 2: this website is awesome with small text and sign up button an image for the left of that
+
+row 3: random header, 4 image boxes with subtext under each image
+
+row 4: just bigass text
+
+row 5: box with two different text formats and a sign up button
+
+footer with copyright information
+
+add note sections into html

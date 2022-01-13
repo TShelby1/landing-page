@@ -1,5 +1,37 @@
+
+
 .MainHead{
         background-color: #1F2937;
+        height:100%;
+        
+
+}
+
+.header-logo{
+        font-size: 24px;
+        color: #f9faf8;
+        
+
+}
+.nav-link{
+        font-size: 18px;
+        color: #E5E7EB;
+
+}
+.main-content{
+        background-color: #1F2937;
+
+
+}
+.quote-section{
+        color: #E5E7EB;
+
+
+}
+.quote-here{
+        font-size: 36px;
+        color: #1F2937;
+        font-style:italic;
 
 
 }
