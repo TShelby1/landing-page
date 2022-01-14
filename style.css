@@ -3,6 +3,7 @@
 .MainHead{
         background-color: #1F2937;
         height:100%;
+        display:flex;
         
 
 }
@@ -11,11 +12,14 @@
         font-size: 24px;
         color: #f9faf8;
         
+        
 
 }
 .nav-link{
         font-size: 18px;
         color: #E5E7EB;
+       
+        
 
 }
 .main-content{
@@ -24,7 +28,7 @@
 
 }
 .quote-section{
-        color: #E5E7EB;
+        background-color: #E5E7EB;
 
 
 }
@@ -34,4 +38,19 @@
         font-style:italic;
 
 
+}
+.sign-up-container{
+        background-color:#3882F6;
+
+}
+.call-to-action-container{
+        color:white;
+}
+.footer{
+        background-color: #1F2937;
+        color: white;
+        display:flex;
+        flex-direction: column;
+        padding-left: 30%;
+        padding-right: 30%;
 }
